@@ -1,0 +1,45 @@
+/************FitFree******************/
+laravel version 8
+Auth:Wajeeh Shik Al Eid
+/************pakage**************/
+laravel ui
+laravel debugbar
+
+purify =>https://github.com/stevebauman/purify
+sweetAlert
+
+laravel-localization composer require mcamara/laravel-localization
+paypal composer require paypal/paypal-checkout-sdk 1.0.1
+Fx3costa\LaravelChartJs\Providers\ChartjsServiceProvider::class
+
+
+
+
+/*connect with google*/
+php artisan vendor:publish --tag=laravel-mail
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.googlemail.com
+MAIL_PORT=465
+MAIL_USERNAME=snuora2019@gmail.com
+MAIL_PASSWORD=059889482345
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS=fitfree2020@gmail.com
+MAIL_FROM_NAME="${APP_NAME}"
+/**/
+npm i alpinejs
+composer require beyondcode/laravel-websockets
+
+
+
+
+
+/*****************تم تاجيل
+1-تغيير صفحات تاكيد ايميل
+
+
+
+
+/////////////////finish
+tagCotnroller
+CategoriesCotnroller
+
